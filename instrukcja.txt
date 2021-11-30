@@ -1,0 +1,2 @@
+1. wrzucami wszystkie pliki do jednego folderu.
+2. otwieramy plik index.html

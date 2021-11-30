@@ -1,0 +1,129 @@
+body {
+	margin: 5px;
+    font-family: Arial;
+    background-color : #000;
+}
+a {
+    text-decoration: none;
+    color: blue;
+}
+button {
+    text-align: center;
+    margin-left: 50%;
+    
+}
+
+#sekcja {
+    padding: 9%;
+    width: 10%;
+    float: left;
+}
+
+#utwor {
+	text-align: center;
+    color: white;
+}
+
+
+img {
+    border-radius: 20px;
+}
+
+.galeria:hover {
+    border: 2px solid black;
+}
+
+.galeria {
+    height: 30vh
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#stronaglowna {
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+    background-color: black;
+}
+
+.mickiewicz {
+    float: left;
+    
+}
+.utwor {
+    float: right;
+}
+#autor {
+    color: white;
+}
+#outworze {
+    color: white;
+}
+#autorek {
+    text-align: right;
+    padding: 125px;
+    color: white;
+    background-color: black;
+}
+#utworek {
+    text-align: left;
+    padding: 125px;
+    color: white;
+    background-color: black;
+}
+
+#duchjasia {
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+    background-color: black;
+}
+
+#starzec {
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+    background-color: black;
+}
+
+#karusia {
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+    background-color: black;
+}
+
+#narrator {
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+    background-color: black;
+}
+
+#prostota {
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+    background-color: black;
+}
+#galeriabohaterow {
+    background-color: black;
+}
+h2 {
+    text-align: center;
+    letter-spacing: 2px;
+	width: 100%;
+    padding-top: 30px;
+	height: 100px;
+}
+
+h3 {
+    text-align: center;
+    letter-spacing: 2px;
+	width: 100%;
+    padding-top: 30px;
+	height: 100px;
+}
